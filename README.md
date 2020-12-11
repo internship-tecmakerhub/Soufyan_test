@@ -1,3 +1,3 @@
 "# Soufyan_test" /synchro/
-fuisoonm
-hd
+/fusion/
+/xyz/
