@@ -4,3 +4,4 @@
 /pendulum/
 /normal/
 /effect/
+/ritual/
